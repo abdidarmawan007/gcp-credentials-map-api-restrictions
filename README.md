@@ -3,4 +3,4 @@ Key restrictions help prevent unauthorized use and quota theft
 
 ![alt text](https://i.imgur.com/qWIOaRW.png)
 
-![alt text](https://i.imgur.com/blq7oxI.png)
+![alt text](https://i.imgur.com/BQfYnpI.png)
