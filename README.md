@@ -10,3 +10,6 @@ Key restrictions help prevent unauthorized use and quota theft
 
 ### For Backend access Google Map API
 ![alt text](https://i.imgur.com/83w0PaG.png)
+
+### Dashboard Google Map
+![alt text](https://i.imgur.com/TbHSNVN.png)
