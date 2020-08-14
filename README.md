@@ -15,5 +15,15 @@
 
 ![alt text](https://i.imgur.com/83w0PaG.png)
 
+#### Test use your key google map from outside gcp network,REQUEST_DENIED because your key only allow from gcp network
+```
+curl -X GET "https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Tanjung%20Duren%20Selatan,%20Grogol%20Petamburan,%20Jakarta%20Barat,%20DKI%20Jakarta,%20Indonesia&key=your-key-xxxxxx"
+{
+   "error_message" : "This IP, site or mobile application is not authorized to use this API key. Request received from IP address 106.250.163.24, with empty referer",
+   "predictions" : [],
+   "status" : "REQUEST_DENIED"
+}
+```
+
 ## Dashboard Google Map
 ![alt text](https://i.imgur.com/TbHSNVN.png)
