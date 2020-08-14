@@ -1,5 +1,6 @@
 # gcp credentials api restrictions google map api for ios or android
 Key restrictions help prevent unauthorized use and quota theft
+Dont use Google Map API Key with the same project with our proudction project for GKE,CloudSQL etc, create new project for Google Map API for stability
 
 ## For IOS
 ![alt text](https://i.imgur.com/qWIOaRW.png)
