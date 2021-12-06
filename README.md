@@ -9,8 +9,14 @@
 
 ![alt text](https://i.imgur.com/uQo4eqt.png)
 
+## For Website
+- Allow key only from domain website
+
+![alt text](https://i.imgur.com/uynkCR4.png)
+
 ## For Backend access Google Map API
-- Allow key only can use in network/vpc gcp, you can ask google cloud support for get block IPv6 in your VPC
+- Allow key only can use in network/vpc gcp, you can ask google cloud support for get IPv6 in your VPC
+
 ![alt text](https://i.imgur.com/mCAvFF0.png)
 
 ![alt text](https://i.imgur.com/83w0PaG.png)
