@@ -19,6 +19,7 @@
 
 ![alt text](https://i.imgur.com/mCAvFF0.png)
 
+- We can remove Maps Static API if our apps or website not use Maps Static API
 ![alt text](https://i.imgur.com/83w0PaG.png)
 
 #### Test use your key google map from outside gcp network, REQUEST_DENIED because your key only allow from gcp network
